@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "jetbot_widgets/extension": true
+  }
+}
